@@ -32,6 +32,7 @@ Veuillez fournir une représentation visuelle de l'ERD en étiquetant clairement
 ### Insérer les données suivantes dans leurs tables respectives issues du TP 1
 
 
+
 #### Films
 
 1. The Great Gatsby,Drama/Romance,2013, 7.2
@@ -59,6 +60,7 @@ Veuillez fournir une représentation visuelle de l'ERD en étiquetant clairement
 23. Wonder Woman,Action/Adventure,2017, 7.4
 
 
+
 #### Acteurs
 
 1. Tobey Maguire: YYYY-MM-DD (Not provided), a joué dans Spider-Man, The Great Gatsby
@@ -84,7 +86,8 @@ Veuillez fournir une représentation visuelle de l'ERD en étiquetant clairement
 20. Robin Wright: April 8, 1966 (1966-04-08), a joué dans Forrest Gump, Wonder Woman
 
 
-#### Écrivez des requêtes SQL pour accomplir ce qui suit
+
+### Écrivez des requêtes SQL pour accomplir ce qui suit
 
 1. Liste des films par titre, puis par année.
 2. Liste des films qui incluent le genre "Drama" dans leurs catégories.
